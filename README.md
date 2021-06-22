@@ -1,15 +1,10 @@
 # **Barcelona Bicing Telegram Bot**
 A Telegram bot that provides operations with Barcelona's Bicing system in realtime.
 
-## **Start using the bot**
-The bot can be used straightaway without the need to install anything.  
-Add it on Telegram through the name t.me/BicingAP2_bot and start typing the commands! (_See section "commands"_).  
-It can be used as any other Telegram bot. It may be used on a private chat or a group.  
-
 <br/><br/>
 
 ## **Running the program files**
-To use the program independently of the official version on the server, the source files are provided.
+To use the program independently of the (unmaintained) official version on the server, the source files are provided.
 
 #### **Creating a Telegram bot**
 A new Telegram bot is needed in order to run it on your own. Make sure to follow the [official instructions](https://telegram.org/blog/bot-revolution) to create it.  
